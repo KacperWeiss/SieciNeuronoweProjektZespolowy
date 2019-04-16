@@ -6,7 +6,7 @@ import shutil
 '''
 healthySampleFolder = folder, ktory zostanie stworzony i w ktorym beda przechowywane zdjecia zdrowe
 healthySamplesOutputPath = sciezka do pliku .txt zdrowego folderu (wybierasz dowolna nazwe byle byla w w.w folderze) 
-
+ 
 sickSamplesFolder = analogicznie
 sickSamplesOutputPath = analogicznie
 
